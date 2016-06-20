@@ -1,0 +1,8 @@
+deploy:
+  provider: npm
+  email: simon@ministrycrm.com
+  api_key:
+    secure: KlFVHtOwaSfCy4SIrZ2lipq5/2Pm7OvnfRlDxIl27GRHcY3SiMiaYLajm2fG1Ry1XKcLNLvvQ2XHtgr9oKXD+0A7Zq2U8ZINOQFfKKS77yqI3/bgbahlSpI3RWrV9aDRry+/5Xd0pR9oo0wb6gVQMOTOIqnS9F1/r9OqNKFftfBb3kWVlxIYzm7SBhvg28gQF0YnT4CA/LCNPRUwniOtgc0fHWV7QSmKUK9FTd+DUKA37ouZbgCJUw+XSc2PJI8xU8ypbLNNy4+ZWXbZOo8JIelYsPO2cu6Vou8YF+nKe5E+NVEOHPDX1lY2j5vZsDTtSpkBwFX9XUAoJKl7bsBxn91CwRPaMTv5ByH+CiyPKtF0WTBd3Hag6A+vFu5WZVjmNGHefJIJPfd84kNJEO4rKIGM4TqnX55RYGBh+BAojSenRQnFiQPUVfnsXwZFutKV1kR8bqYjRJAfdcrNhL67rEM9qu6eT5GVx/s0VGSK41D8TUKb+axFaTGdcCPIdZJrDqEmmrA8PlSGBAFr7EtE3udENHvO4t9qOhpgghtYbG65nJt8OFb4psYRKMwjWgM1rW7d5nMVPHw1goACO2DMOiGoNAElNAKsL/mi2uJCJnwYg/FcS55CaQYgMAwdy4SHjdBQVNuuApPO91mwgl26jdB0BKlLJru9SIEFeDwJEOc=
+  on:
+    tags: true
+    repo: simonhochrein/electron-ipc-reactive
