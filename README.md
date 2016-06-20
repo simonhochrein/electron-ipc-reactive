@@ -1,6 +1,6 @@
 # Electron IPC Reactive
 
-![Screenshot](Screen Recording.gif)
+![Screenshot](https://raw.githubusercontent.com/simonhochrein/electron-ipc-reactive/master/Screen%20Recording.gif)
 ## Examples
 ```
 // app.js
