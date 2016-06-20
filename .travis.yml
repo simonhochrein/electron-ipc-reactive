@@ -6,3 +6,5 @@ deploy:
   on:
     tags: true
     repo: simonhochrein/electron-ipc-reactive
+language: node_js
+node_js: node
