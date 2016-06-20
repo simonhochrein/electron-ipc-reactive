@@ -1,8 +1,12 @@
 {
   "name": "electron-ipc-reactive",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "ipcRenderer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonhochrein/electron-ipc-reactive.git"
+  },
   "scripts": {
     "start": "electron app.js"
   },
